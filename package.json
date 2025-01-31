@@ -1,6 +1,6 @@
 {
     "name": "chng",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Simple, opinionated tool to create changelog from git history using conventional commits.",
     "type": "module",
     "bin": "bin/chng.js",

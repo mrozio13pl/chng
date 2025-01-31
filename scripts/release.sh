@@ -14,6 +14,7 @@ node ./bin/chng.js --repo-url "https://github.com/mrozio13pl/chng"
 
 # Commit
 git add CHANGELOG.md
+git add package.json
 git commit -m $VERSION
 git push origin $(git branch --show-current)
 
